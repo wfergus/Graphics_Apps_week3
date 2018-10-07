@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Textured_Quad_Repeat", "Textured_Quad_Repeat\", "{45699DC3-9B5E-4CDA-9CB7-73468651B747}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64485"
+		Debug.AspNetCompiler.PhysicalPath = "Textured_Quad_Repeat\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64485\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64485"
+		Release.AspNetCompiler.PhysicalPath = "Textured_Quad_Repeat\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64485\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64485"
+		SlnRelativePath = "Textured_Quad_Repeat\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45699DC3-9B5E-4CDA-9CB7-73468651B747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45699DC3-9B5E-4CDA-9CB7-73468651B747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCA925F0-4DD5-484D-87EB-884901F0B706}
+	EndGlobalSection
+EndGlobal
