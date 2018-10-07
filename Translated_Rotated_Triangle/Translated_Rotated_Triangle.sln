@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Translated_Rotated_Triangle", "Translated_Rotated_Triangle\", "{15E1253F-76C4-4648-ABA2-928AC8C1B8C8}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_63919"
+		Debug.AspNetCompiler.PhysicalPath = "Translated_Rotated_Triangle\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63919\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_63919"
+		Release.AspNetCompiler.PhysicalPath = "Translated_Rotated_Triangle\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63919\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "63919"
+		SlnRelativePath = "Translated_Rotated_Triangle\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15E1253F-76C4-4648-ABA2-928AC8C1B8C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E1253F-76C4-4648-ABA2-928AC8C1B8C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8533BBCA-C5AD-401E-96BC-00D08B8FE61D}
+	EndGlobalSection
+EndGlobal
